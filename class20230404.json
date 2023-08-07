@@ -1,0 +1,155 @@
+[
+    {
+        "subject": "JS1",
+        "revue_date": "20230404",
+        "curriculum": 2,
+        "created_at": "20230402111111",
+        "revue_groups": [
+            {
+                "group_name": "room A",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T40", "name": "T", "status": "harajuku" },
+                    { "id": "@T49", "name": "M", "status": "harajuku" },
+                    { "id": "@T56", "name": "W", "status": "harajuku" },
+                    { "id": "@T48", "name": "J", "status": "harajuku" },
+                    { "id": "@T03", "name": "I", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room B",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T23", "name": "", "status": "harajuku" },
+                    { "id": "@T46", "name": "", "status": "harajuku" },
+                    { "id": "@T25", "name": "", "status": "harajuku" },
+                    { "id": "@T29", "name": "", "status": "harajuku" },
+                    { "id": "@T66", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room C",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T50", "name": "", "status": "harajuku" },
+                    { "id": "@T38", "name": "", "status": "harajuku" },
+                    { "id": "@T05", "name": "", "status": "harajuku" },
+                    { "id": "@T20", "name": "", "status": "harajuku" },
+                    { "id": "@T02", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room D",
+                "member_amount": 4,
+                "member": [
+                    { "id": "@T28", "name": "", "status": "harajuku" },
+                    { "id": "@T47", "name": "", "status": "harajuku" },
+                    { "id": "@T51", "name": "", "status": "harajuku" },
+                    { "id": "@T04", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room E",
+                "member_amount": 4,
+                "member": [
+                    { "id": "@T35", "name": "", "status": "harajuku" },
+                    { "id": "@T34", "name": "", "status": "harajuku" },
+                    { "id": "@T06", "name": "", "status": "harajuku" },
+                    { "id": "@T59", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room F",
+                "member_amount": 4,
+                "member": [
+                    { "id": "@T15", "name": "", "status": "harajuku" },
+                    { "id": "@T10", "name": "", "status": "harajuku" },
+                    { "id": "@T19", "name": "", "status": "harajuku" },
+                    { "id": "@T42", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room G",
+                "member_amount": 4,
+                "member": [
+                    { "id": "@T57", "name": "", "status": "online" },
+                    { "id": "@T22", "name": "", "status": "online" },
+                    { "id": "@T65", "name": "", "status": "online" },
+                    { "id": "@T58", "name": "", "status": "online" }
+                ]
+            },
+            {
+                "group_name": "room H",
+                "member_amount": 3,
+                "member": [
+                    { "id": "@T18", "name": "", "status": "online" },
+                    { "id": "@S05", "name": "", "status": "online" },
+                    { "id": "@S02", "name": "", "status": "online" }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "JS2",
+        "revue_date": "20230411",
+        "curriculum": 3,
+        "created_at": "20230409222222",
+        "revue_groups": [
+            {
+                "group_name": "room A",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T23", "name": "T", "status": "harajuku" },
+                    { "id": "@T21", "name": "M", "status": "harajuku" },
+                    { "id": "@T58", "name": "W", "status": "harajuku" },
+                    { "id": "@T42", "name": "J", "status": "harajuku" },
+                    { "id": "@T59", "name": "I", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room B",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T49", "name": "", "status": "harajuku" },
+                    { "id": "@T46", "name": "", "status": "harajuku" },
+                    { "id": "@T39", "name": "", "status": "harajuku" },
+                    { "id": "@T11", "name": "", "status": "harajuku" },
+                    { "id": "@T52", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room C",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T60", "name": "", "status": "harajuku" },
+                    { "id": "@T14", "name": "", "status": "harajuku" },
+                    { "id": "@T32", "name": "", "status": "harajuku" },
+                    { "id": "@T19", "name": "", "status": "harajuku" },
+                    { "id": "@T07", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room D",
+                "member_amount": 5,
+                "member": [
+                    { "id": "@T10", "name": "", "status": "harajuku" },
+                    { "id": "@T44", "name": "", "status": "harajuku" },
+                    { "id": "@S02", "name": "", "status": "harajuku" },
+                    { "id": "@T15", "name": "", "status": "harajuku" },
+                    { "id": "@T40", "name": "", "status": "harajuku" }
+                ]
+            },
+            {
+                "group_name": "room E",
+                "member_amount": 4,
+                "member": [
+                    { "id": "@T43", "name": "", "status": "harajuku" },
+                    { "id": "@T02", "name": "", "status": "harajuku" },
+                    { "id": "@T18", "name": "", "status": "harajuku" },
+                    { "id": "@T28", "name": "", "status": "harajuku" },
+                    { "id": "@T47", "name": "", "status": "harajuku" }
+                ]
+            }
+        ]
+    }
+]
